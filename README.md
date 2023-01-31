@@ -1,4 +1,4 @@
-# Corne keyboard
+# Thorne keyboard
 
 The Thorne keyboard is a split keyboard with 3x6 column staggered keys 
 and 3 thumb keys, a variation of the [Corne](https://github.com/foostan/crkbd) Keyboard.
